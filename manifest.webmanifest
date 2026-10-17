@@ -1,0 +1,18 @@
+{
+  "name": "FORMA — Meu Treino",
+  "short_name": "FORMA",
+  "description": "Ficha ilustrada e diário de treino",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#183826",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
